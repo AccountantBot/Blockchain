@@ -6,3 +6,5 @@ lib/forge-std
 lib/
 broadcast/
 !/lib/forge-std/
+
+.env
