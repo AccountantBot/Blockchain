@@ -1,5 +1,8 @@
 cache/
 out/
+/.github
+lib/
+lib/forge-std
 lib/
 broadcast/
 !/lib/forge-std/
